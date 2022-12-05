@@ -1,11 +1,9 @@
 import pyautogui
-import time
 import os
 import cv2
 
 current_dir = os.path.dirname(os.path.realpath(__file__)) 
 champion_dir = current_dir + "\\champion\\"
-TIME_CONSTANT = 0.1
 #1600 x 900 : 80x80 img
 #1280 x 720: 64x64 img
 
